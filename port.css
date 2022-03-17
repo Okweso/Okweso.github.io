@@ -91,7 +91,7 @@ nav{
 }
 
 	
-@media(max-width: 750px){
+@media(max-device-width: 750px){
 	#skills{
 		display: flex;
 		flex-direction:column;
