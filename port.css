@@ -93,6 +93,7 @@ nav{
 	
 @media(max-width: 750px){
 	#skills{
+		display: flex;
 		flex-direction:column;
 		align-items: center;
 	}
@@ -101,15 +102,17 @@ nav{
 		height: 250px;
 		font-size: 25px;
 		position: relative;
-	left: 100px;
+		left: 100px;
 	}
 	nav{
+		display: flex;
 		flex-direction: column;
 		align-items: center;
 
 		
 	}
 	#content{
+		display: flex;
 		flex-direction: column;
 		font-size: 15px;
 		align-items: center;
