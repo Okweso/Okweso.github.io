@@ -6,7 +6,7 @@
 	
 }
 body{
-	background-image: url(back.PNG);
+	background-image: url("back.PNG");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-blend-mode: overlay;
@@ -105,9 +105,9 @@ nav{
 }
 
 @keyframes animate{
-	0% {background-image: url(back.PNG);}
-	50% {background-image: url(tech1.PNG);}
-	100% {background-image: url(tech2.PNG);}
+	0% {background-image: url("back.PNG");}
+	50% {background-image: url("tech1.PNG");}
+	100% {background-image: url("tech2.PNG");}
 }
 
 	
