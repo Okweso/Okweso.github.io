@@ -87,13 +87,12 @@ h1{
 	width:350px;
 	height: 350px;
 	display: block;
-	position: relative;
-	left; 40%;
+	align-self: center;
 	margin:20px;
 	color: white;
 	font-size: 50px;
 	background-color: #665D1E;
-	padding-top: 50px;
+	padding-top: 20px;
 	padding-left: 20px;
 	box-shadow: 10px 10px 10px 10px grey;
 }
