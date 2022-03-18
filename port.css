@@ -95,6 +95,15 @@ nav{
 	padding-left: 20px;
 	box-shadow: 10px 10px 10px 10px grey;
 }
+
+.know{
+	color: white;
+	font-size: 50px;
+	text-align: center;
+	background-color: #808000;
+	margin: 2px;
+}
+
 @keyframes animate{
 	0% {background-image: url(back.png);}
 	50% {background-image: url(tech1.png);}
