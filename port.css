@@ -77,8 +77,8 @@ h1{
 
 }
 #skills{
-	display: column;
-	flex-direction:row;
+	display: flex;
+	flex-direction:column;
 	justify-content: space-between;
 	align-items: center;
 }
