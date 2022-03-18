@@ -87,11 +87,13 @@ h1{
 	width:350px;
 	height: 350px;
 	display: block;
+	position: relative;
+	left; 40%;
 	margin:20px;
 	color: white;
 	font-size: 50px;
 	background-color: #665D1E;
-	padding-top: 150px;
+	padding-top: 50px;
 	padding-left: 20px;
 	box-shadow: 10px 10px 10px 10px grey;
 }
