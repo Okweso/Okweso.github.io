@@ -130,13 +130,14 @@ background-color: black;
 	padding: 10px;
 	
 }
-#mail{
-	width: 200px;
-	height: 40px;
+.mail a{
+	text-decoration: none;
+	background-color: green;
 	padding: 10px;
-	font-size: 20px;
 	border-radius: 10px;
-	margin: 15px;
+	margin: 20px;
+	font-size: 20px;
+	
 }
 
 @keyframes animate{
