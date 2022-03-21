@@ -90,10 +90,10 @@ h1{
 	display: block;
 	margin:20px;
 	color: #FF8C00;
-	font-size: 30px;
+	font-size: 450px;
 	background-color: #665D1E;
 	padding-top: 20px;
-	padding-left: 20px;
+	padding-left: 50px;
 	box-shadow: 10px 10px 10px 10px grey;
 }
 
@@ -137,6 +137,7 @@ background-color: black;
 	border-radius: 10px;
 	margin: 20px;
 	font-size: 20px;
+	color: white;
 	
 }
 
