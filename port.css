@@ -106,7 +106,8 @@ h1{
 }
 /*.proj{
 	position: relative;
-	left: 25%;
+	//left: 25%;
+	text-align: center;
 	font-size: 30px;
 }
 
