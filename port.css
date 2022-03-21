@@ -90,7 +90,7 @@ h1{
 	display: block;
 	margin:20px;
 	color: #FF8C00;
-	font-size: 35px;
+	font-size: 45px;
 	background-color: #665D1E;
 	padding-top: 20px;
 	padding-left: 50px;
@@ -152,6 +152,9 @@ background-color: black;
 
 	
 @media(max-device-width: 750px){
+	.mail a{
+		font-size: 10px;
+	}
 	#skills{
 		display: flex;
 		flex-direction:column;
