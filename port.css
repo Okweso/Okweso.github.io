@@ -104,6 +104,33 @@ h1{
 	background-color: #808000;
 	margin: 2px;
 }
+.proj{
+	position: relative;
+	left: 25%;
+	font-size: 30px;
+}
+
+.contact{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 30px;
+background-color: black;
+}	
+.message{
+
+	margin: 10px;
+}
+.social{
+	padding:30px;
+	font-size: 40px;
+}
+.icon{
+	padding-top: 15px;
+	padding: 10px;
+	
+}
 
 @keyframes animate{
 	0% {background-image: url("back.PNG");}
