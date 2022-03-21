@@ -140,6 +140,9 @@ background-color: black;
 	color: white;
 	
 }
+.mail a:hover{
+	background-color:  #FF8C00;
+}
 
 @keyframes animate{
 	0% {background-image: url("back.PNG");}
