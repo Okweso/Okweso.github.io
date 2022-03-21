@@ -118,18 +118,24 @@ align-items: center;
 padding: 30px;
 background-color: black;
 }	
-.message{
 
-	margin: 10px;
-}
 .social{
 	padding:30px;
-	font-size: 40px;
+	font-size: 35px;
+	margin-top: 40px;
 }
 .icon{
 	padding-top: 15px;
 	padding: 10px;
 	
+}
+#mail{
+	width: 200px;
+	height: 40px;
+	padding: 10px;
+	font-size: 20px;
+	border-radius: 10px;
+	margin: 15px;
 }
 
 @keyframes animate{
