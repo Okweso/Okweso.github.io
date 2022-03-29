@@ -3,6 +3,7 @@
 	padding: 0;
 	box-sizing: border-box;
 	font-family: courier;
+	width: 100%
 	
 }
 body{
@@ -94,6 +95,7 @@ h1{
 	padding: 5px;
 	margin: 10px;
 	cursor: pointer;
+
 }
 #block:hover{
 	background-color: grey;
